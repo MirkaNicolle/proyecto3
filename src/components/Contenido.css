@@ -1,0 +1,101 @@
+@import url('https://fonts.googleapis.com/css2?family=Kalam&family=Oswald&display=swap');
+
+.contenido{
+    width: 100%;
+    height:fit-content;
+    background-color: blue;
+    background-image: url(../resorce/fondoContenido.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: block;
+    text-align: center;
+}
+
+.tituloContenido{
+    font-family: 'Oswald', sans-serif;
+    font-size: 50px;
+    color: #7C43E7;
+    background-color: transparent;
+    padding-top: 20px;
+}
+
+.numero{
+    font-family: 'Oswald', sans-serif;
+    font-size: 40px;
+    color: #B82CE3;
+    background-color: transparent;
+}
+
+.calculadora{
+    height: 300px;
+    width: 600px;
+    background-image: url(../resorce/calculadora.PNG);
+    background-repeat: no-repeat;
+    background-size: cover;
+    border: 20px ridge #EDBDFC;
+    border-radius: 23px;
+    background-color: transparent;
+}
+
+.css{
+    height: 300px;
+    width: 600px;
+    background-image: url(../resorce/css.PNG);
+    background-repeat: no-repeat;
+    background-size: cover;
+    border: 20px ridge #EDBDFC;
+    border-radius: 23px;
+    background-color: transparent;
+}
+
+.html{
+    height: 300px;
+    width: 600px;
+    background-image: url(../resorce/html.PNG);
+    background-repeat: no-repeat;
+    background-size: cover;
+    border: 20px ridge #EDBDFC;
+    border-radius: 23px;
+    background-color: transparent;
+}
+
+.memoria{
+    height: 300px;
+    width: 600px;
+    background-image: url(../resorce/memoria.PNG);
+    background-repeat: no-repeat;
+    background-size: cover;
+    border: 20px ridge #EDBDFC;
+    border-radius: 23px;
+    background-color: transparent;
+}
+
+.proyecto1{
+    height: 300px;
+    width: 600px;
+    background-image: url(../resorce/proyecto1.PNG);
+    background-repeat: no-repeat;
+    background-size: cover;
+    border: 20px ridge #EDBDFC;
+    border-radius: 23px;
+    background-color: transparent;
+}
+
+.proyecto2{
+    height: 300px;
+    width: 600px;
+    background-image: url(../resorce/proyecto2.PNG);
+    background-repeat: no-repeat;
+    background-size: cover;
+    border: 20px ridge #EDBDFC;
+    border-radius: 23px;
+    background-color: transparent;
+}
+
+.contenedor{
+    display: -webkit-inline-box;
+    width: 800px;
+    background-color: transparent;
+    margin-top: 40px;
+    margin-bottom: 40px;
+}

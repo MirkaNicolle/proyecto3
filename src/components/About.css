@@ -1,0 +1,57 @@
+@import url('https://fonts.googleapis.com/css2?family=Kalam&family=Oswald&display=swap');
+
+.about{
+    background-image: url(../resorce/blueContenido.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: 'Oswald', sans-serif;
+    background-color: transparent;
+    display: -webkit-inline-box;
+    overflow: hidden;
+    display: block;
+}
+
+.aboutP{
+    text-align: center;
+    background-color: transparent;
+    padding-top: 20px;
+}
+
+.tituloAbout{
+    font-size: 40px;
+    color: white;
+    background-color: transparent;
+    padding-bottom: 20px;
+}
+
+.texto{
+    color:white;
+    font-size: 25px;
+    background-color: transparent;
+    word-wrap: break-word;
+}
+
+.listaSkill{
+    display: inline-table;
+    background-color: transparent;
+    text-align: center;
+    justify-content:space-between;
+    padding-bottom: 30px;
+}
+
+.lista{
+    color: white;
+    background-color: transparent;
+    float: left;
+    justify-content:space-between;
+    margin-left: 250px;
+}
+
+ul{
+    background-color: transparent;
+    font-size: 20px;
+}
+
+li{
+    background-color: transparent;
+}
